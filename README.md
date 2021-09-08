@@ -1,4 +1,4 @@
-# Dashboard-Vacinacao-Covid-19-Minas-Gerais
+# Dashboard Vacinação Covid-19 Minas Gerais
 
 Neste repositório contém um dashboard com o acompanhamento da vacinação da covid-19 no estados de Minas Gerais, até a data de 05/09/2021. O Dashboard foi feito em Power BI, e está no anexo deste repositório. Também temos o script de tratamento dos dados em que foi utilizado a linguagem Python.
 
